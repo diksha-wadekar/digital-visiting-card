@@ -16,7 +16,7 @@ An interactive flip-card digital visiting card built with pure HTML and CSS. Cli
 1. Clone the repo
 2. Open `index.html` in any browser
    or
-3. View the live demo: [Live Demo]([your-github-pages-link](https://diksha-wadekar.github.io/digital-visiting-card/))
+3. View the live demo: [Live Demo](https://diksha-wadekar.github.io/digital-visiting-card/)
 
 ## Screenshot
 ![Digital Visiting Card](screenshot.png)
